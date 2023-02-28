@@ -1,0 +1,34 @@
+{"intents":[
+  { "tag": "questionamento_dinamica",
+  "patterns":["vai ter dinamica?", "como será feita a dinamica?", "haverá dinamica?"],
+  "responses": ["Nesta disciplina, a dinâmica será composta por meio de apresentações e discussões com o professor em aula, onde o mesmo irá ir de grupo em grupo afim de saber como está o desenvolvimento do trabalho/projeto, buscando sempre auxiliar os alunos com o máximo que pode."]
+  },
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem?", "como vai", "iae", "salve"],
+    "response_tudobem":["Iae, bem sim e vc?"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado", "até mais", "tamo junto"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "questionamento_conteudo",
+    "patterns":["O que será abordado?", "qual o conteúdo?"],
+    "responses": ["Nessa disciplina será abordado Construção de protótipos, Modelagem, Ajustes e Planejamentos, Apresentação do protótipo, benchmark.. Em resumo, tudo o que necessário para uma boa base para apresentação na banca"]
+  },
+  { "tag": "questionamento_professor",
+  "patterns":["Qual o professor?", "Qual professor dará a matéria?", "sim", "não", "isso ai", "isso mesmo"],
+  "response_professor":["Da matéria de TCC?"],
+  "responses": ["O Professor que conduzirá a matéria será o Ricardo Destro, que terá como foco sempre ficar cobrando seus alunos para desenvolvimento do projeto. Esperando que no fim, seu aluno se torne milionário."]
+  },
+  { "tag": "questionamento_grupos",
+  "patterns":["Será em grupo?", "Quantas pessoas pode no grupo?"],
+  "responses": ["O trabalho de conclusão de curso é desenvolvido em grupos de alunos. Poderá ser composto por até 4 integrantes"]
+  },
+  { "tag": "questionamento_entregas",
+  "patterns":["Como será feita a entrega?", "Quanto tempo para a entrega?", "sim"],
+  "response_data":["De TCC I?"],
+  "responses": ["A entrega será feita 19/06. Espera-se como resultado final do TCC uma monografia e um programa ou artefato desenvolvido pelos alunos. Toda a monografia é desenvolvida de acordo com o método científico estudado no curso."]  
+  }
+]   
+}
