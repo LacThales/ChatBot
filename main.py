@@ -16,7 +16,7 @@ print(resposta + "   ["+intencao[0]['intent']+"]")
 while (intencao[0]['intent']!="despedida"):
     if (resposta.__contains__("Iae, bem sim e vc?")):
         input("")
-    if (resposta.__contains__("TCC?")):
+    if (resposta.__contains__("TCC?") and intencao[0]['intent'] == "questionamento_professor"):
         pergunta = input("")
         resposta, intencao = myChatBot.chatbot_response(pergunta)
         print(resposta + "   [" + intencao[0]['intent'] + "]")
