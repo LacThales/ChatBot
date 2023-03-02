@@ -20,5 +20,5 @@ Colocar imagem com comentários no código
 Colocar imagem com comentários no código
 
 ## Autores
-ex. [Vítor M. Oliveira](https://github.com/vihmar)  
-ex. [Thales Lacerda](https://github.com/LacThales)
+[Vítor M. Oliveira](https://github.com/vihmar)  
+[Thales Lacerda](https://github.com/LacThales)
