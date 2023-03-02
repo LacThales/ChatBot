@@ -73,7 +73,16 @@ python3 main.py
 
 ## Interação
 
-Colocar imagem com comentários no código
+<p align="center">
+  <img src="https://github.com/LacThales/ChatBot/blob/main/Imagens/interacoes.png" alt="Telnet"/>
+</p>
+Para a Interação do usuário com o chat-bot, foi feita a alteração no “main.py”. Resumidamente, no laço que aguarda a despedida do usuário, colocamos algumas condições que levariam a alguns questionamentos com possíveis interações do chat-bot de acordo com a resposta do usuário.
+
+<p align="center">
+  <img src="https://github.com/LacThales/ChatBot/blob/main/Imagens/chatbotresponse.png" alt="Telnet"/>
+</p>
+
+Na classe chatbot_response, localizada no “chatbot.py” podemos reparar que em alguns casos usamos um parâmetro adicional “cont”. Pois, partindo deste parâmetro, nós podemos saber o questionamento e qual a interação que será realizada pelo chat.
 
 ## Autores
 [Vítor M. Oliveira](https://github.com/vihmar)  
