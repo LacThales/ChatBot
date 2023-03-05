@@ -92,4 +92,4 @@ Na classe chatbot_response, localizada no “chatbot.py” podemos reparar que e
 
 ## Autores
 [Vítor M. Oliveira R.A: 22.120.067-8](https://github.com/vihmar)  
-[Thales Lacerda](https://github.com/LacThales)
+[Thales Lacerda R.A: 22.120.056-1](https://github.com/LacThales)
