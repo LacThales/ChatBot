@@ -13,6 +13,10 @@ Já com os pacotes em sua máquina realize o código abaixo na pasta do projeto 
 python3 main.py
 ```
 ## Funcionamento
+<p align="center">
+  <img src="https://github.com/LacThales/ChatBot/blob/main/Imagens/execucao.jpg" alt="Telnet"/>
+</p>
+
 [Vídeo para visualização do Funcionamento](https://youtu.be/uGjqAtd-Www)
 
 ## Intenções
