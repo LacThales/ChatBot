@@ -91,5 +91,5 @@ Para a Interação do usuário com o chat-bot, foi feita a alteração no “mai
 Na classe chatbot_response, localizada no “chatbot.py” podemos reparar que em alguns casos usamos um parâmetro adicional “cont”. Pois, partindo deste parâmetro, nós podemos saber o questionamento e qual a interação que será realizada pelo chat.
 
 ## Autores
-[Vítor M. Oliveira](https://github.com/vihmar)  
+[Vítor M. Oliveira R.A: 22.120.067-8](https://github.com/vihmar)  
 [Thales Lacerda](https://github.com/LacThales)
