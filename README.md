@@ -1,4 +1,9 @@
 # ChatBot
+
+## Autores
+[Vítor M. Oliveira R.A: 22.120.067-8](https://github.com/vihmar)  
+[Thales Lacerda R.A: 22.120.056-1](https://github.com/LacThales)
+
 ## Introdução
 O projeto tem por objetivo o desenvolvimento de um chat-bot com a capacidade de auxiliar um usuário com suas dúvidas em relação à aula de introdução da disciplina Trabalho Final de Curso. 
 
@@ -89,7 +94,3 @@ Para a Interação do usuário com o chat-bot, foi feita a alteração no “mai
 </p>
 
 Na classe chatbot_response, localizada no “chatbot.py” podemos reparar que em alguns casos usamos um parâmetro adicional “cont”. Pois, partindo deste parâmetro, nós podemos saber o questionamento e qual a interação que será realizada pelo chat.
-
-## Autores
-[Vítor M. Oliveira R.A: 22.120.067-8](https://github.com/vihmar)  
-[Thales Lacerda R.A: 22.120.056-1](https://github.com/LacThales)
